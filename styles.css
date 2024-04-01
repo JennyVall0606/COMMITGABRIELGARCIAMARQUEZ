@@ -1,0 +1,73 @@
+header{
+    background-color: rgb(192, 192, 192);
+    overflow: auto;
+}
+#logo{
+    height: 50PX;
+    padding: 40PX;
+}
+nav{
+    float: right;
+    
+}
+.linav {
+    list-style: none;
+    margin: 20px;
+    float: left;
+    font-size: 150%;
+}
+div{
+    background-image: url(./Fondo\ libros.jpeg);
+    color: aliceblue;
+    text-align: center;
+    font-size: 30px;
+    padding: 20px 10px 50px 10px; 
+}
+main{
+    background-color: rgba(233, 246, 247, 0.637);
+    max-width: 1000px;
+    margin: auto;
+}
+h2 {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+    text-align: center;
+}
+ul{
+    text-align: center;
+}
+.horizontal-list{
+    font-size: 200%;
+    list-style: none;
+    padding: 0%;
+    display: inline-block;
+    text-align: center;
+    margin: 10px;
+    background-color: aquamarine;
+    border-radius: 30px;
+}
+table{
+    width: 1000px;
+    border: 5% ;
+    border-collapse: collapse;
+}
+thead{
+    background-color: rgb(199, 199, 199);
+    text-align: center;
+}
+td{
+    border: 1px solid green;
+    text-align: center;
+} 
+
+footer{
+    margin: 5px;
+    background-color: rgb(192, 192, 192);
+    overflow: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+
+
